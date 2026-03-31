@@ -1,0 +1,37 @@
+Módulo básico de java
+
+Exercícios de Introduçãoa Estruturas de Dados
+
+Exercícios de Listas tres
+
+Exe01 - Crie uma Lista do tipo String com o nome de carro.
+
+Exe02 - Adicione o 3 carros a lista e depois informe o que tem na lista
+
+Exe03 - Insira na lista de carros, dois novos carros na posicao 0 e na 3 e depois informe o que tem na lista
+
+Exe04 - Quero imprimir um elemento especifico na posicao 3
+
+Exe05 - Percorra a lista, imprimindo da maneira tradicional for
+
+Exe06 - Limpa o arraylist lista carro
+
+Exe07 - Informo o objeto, que no caso vai ser o tipo de dados do meu arraylist
+
+Exe08 - Informa o elemento que eu quero remover, a posicao
+
+Exe09 - Informa o nome do elemento que eu quero remover
+
+Exe10 - Ordene a Lista de forma crescente.
+
+Exe11 - Corta, elimina posicoes que n�o estao sendo utlizados no nosso arrayList
+        Para economozar memoria, deixa apenas com o tamanho de elementos alocado
+
+Exe12 - Verificando se a lista esta vazia - vai dar false
+
+Exe13 - Verificando se a lista tem elementos - passei "Adriano", retorna true
+
+Exe14 - Verificando o tanmanho do array list
+
+Exe15 - Concatenando duas listas
+

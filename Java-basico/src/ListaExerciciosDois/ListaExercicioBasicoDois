@@ -1,0 +1,55 @@
+Módulo básico de java
+
+Exercícios de Introduçãoa Estruturas de Dados
+
+Exercícios de Listas dois
+
+Exe01 - Faça um programa que preencha automaticamente uma lista com 8 posições, conforme abaixo:
+        Valores → 999 999 999 999 999 999 999 999 Posições → 0 1 2 3 4 5 6 7
+
+Exe02 - Crie um programa que preencha automaticamente (usando lógica, não apenas atribuindo diretamente)
+        uma lista com 10 posições, conforme abaixo: Valores → 5 10 15 20 25 30 35 40 45 50 Posições → 0 1 2 3 4 5 6 7 8 9
+
+Exe03 - Crie um programa que preencha automaticamente (usando lógica, não apenas atribuindo diretamente) uma lista com 10 posições,
+        conforme abaixo: Valores → 9 8 7 6 5 4 3 2 1 0 Posições → 0 1 2 3 4 5 6 7 8 9
+
+Exe04 - Crie um programa que preencha automaticamente (usando lógica, não apenas atribuindo diretamente) uma lista com 10 posições,
+        conforme abaixo: Valores → 5 3 5 3 5 3 5 3 5 3 Posições → 0 1 2 3 4 5 6 7 8 9
+
+Exe05 - Crie um programa que preencha automaticamente (usando lógica, não apenas atribuindo diretamente) uma lista com 15 posições com os
+        primeiros elementos da sequência de Fibonacci:
+        Valores → 1 1 2 3 5 8 13 21 34 55 89 144 233 377 610 987 Posições → 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+
+Exe06 - Crie um programa que preencha automaticamente uma lista com 7 números gerados aleatoriamente pelo computador e
+        depois mostre os valores gerados na tela.
+
+Exe07 - Faça um programa que leia 7 nomes de pessoas e guarde-os em uma lista. No final, mostre uma listagem com todos os nomes informados,
+        na ordem inversa daquela em que eles foram informados.
+
+Exe08 - Escreva um programa que leia 15 números e guarde-os em uma lista. No final, mostre toda a lista na tela e em seguida mostre
+        em que posições foram digitados valores que são múltiplos de 10.
+
+Exe09 - Desenvolva um programa que leia 10 números inteiros e guarde-os em uma lista. No final, mostre quais são os números pares
+        que foram digitados e em que posições eles estão armazenados.
+
+Exe10 - Faça um algoritmo que preencha uma lista de 30 posições com números entre 1 e 15 sorteados pelo computador. Depois disso,
+        peça para o usuário digitar um número (chave) e seu programa deve mostrar em que posições essa chave foi encontrada.
+        Mostre também quantas vezes a chave foi sorteada.
+
+Exe11 - Crie um programa que leia a idade de 8 pessoas e guarde-as em uma lista. No final, mostre: a) Qual é a média de idade
+        das pessoas cadastradas b) Em quais posições temos pessoas com mais de 25 anos c) Qual foi a maior idade
+        digitada (podem haver repetições) d) Em que posições digitamos a maior idade
+
+Exe12 - Faça um algoritmo que leia a nota de 10 alunos de uma turma e guarde-as em uma lista. No final, mostre: a) Qual é a média da turma
+        b) Quantos alunos estão acima da média da turma
+        c) Qual foi a maior nota digitada
+        d) Em que posições a maior nota aparece
+
+Exe13 - Crie uma lógica que preencha uma lista de 20 posições com números aleatórios (entre 0 e 99) gerados pelo computador.
+        Logo em seguida, mostre os números gerados e depois coloque a lista em ordem crescente, mostrando no final os valores ordenados.
+
+Exe14 - Crie um programa que leia o nome e a idade de 9 pessoas e guarde esses valores em duas listas, em posições relacionadas.
+        No final, mostre uma listagem contendo apenas os dados das pessoas menores de idade.
+
+Exe15 - Faça um algoritmo que leia o nome, o gênero e o salário de 5 funcionários e guarde esses dados em três listas.
+        No final, mostre uma listagem contendo apenas os dados das funcionárias mulheres que ganham mais de R$5 mil.

@@ -1,0 +1,25 @@
+Módulo básico de java
+
+Exercícios de Introduçãoa Estruturas de Dados
+
+Exercícios de Listas
+
+Exe01 - Crie uma Lista com vinte números aleatórios.
+
+Exe02 - Adicione o número 11 à Lista criada no exercício anterior.
+
+Exe03 - Remova o número na 5ª posição da Lista.
+
+Exe04 - Concatene a Lista atual com uma nova Lista contendo os números de 12 a 15.
+
+Exe05 - Encontre o comprimento da Lista resultante.
+
+Exe06 - Verifique se o número 8 está presente na Lista.
+
+Exe07 - Inverta a ordem dos elementos na Lista.
+
+Exe08 - Remova todos os números pares da Lista.
+
+Exe09 - Substitua o valor da 3ª posição por 30.
+
+Exe10 - Ordene a Lista de forma crescente.
